@@ -1,0 +1,23 @@
+
+StatusCode        : 200
+StatusDescription : OK
+Content           : {
+                      "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+                      "contentVersion": "1.0.0.0",
+                      "parameters": {
+                        "storageAccountName": {
+                          "type": "string",
+                     …
+RawContent        : HTTP/1.1 200 OK
+                    Connection: keep-alive
+                    Cache-Control: max-age=300
+                    Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+                    ETag: "4e802a793c87f8d04b8479051d437249400f65c2398…
+Headers           : {[Connection, System.String[]], [Cache-Control, System.String[]], [Content-Security-Policy, System.String[]], [ETag, System.String[]]…}
+Images            : {}
+InputFields       : {}
+Links             : {}
+RawContentLength  : 1382
+RelationLink      : {}
+
+
