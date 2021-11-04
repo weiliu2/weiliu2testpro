@@ -27,6 +27,6 @@ steps:
     location: 'East Asia'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/weiliu2/weiliu2testpro/master/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName  dolphin_pipeline'
+    overrideParameters: '-projectName  dolpipe'
     deploymentMode: 'Incremental'
     deploymentName: 'dolphinpipelinedep'
